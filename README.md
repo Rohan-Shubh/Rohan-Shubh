@@ -1,4 +1,5 @@
-<p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/cover-thompson.png"></p>
+<!--
+ <p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/cover-thompson.png"></p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=0d8eceF&size=30&center=true&vCenter=true&width=550&height=70&lines=Hey+There+👋,+I'm+Rohan;+A+Data+And+Tech+Enthusiast+🔆;Data+Scientist+💻;Loves+To+Build+Projects+🛠️;A+Problem+Solver+🕵;">
@@ -6,7 +7,7 @@
 
 <p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png"></p>
 
-<!-- # Hi, I am Rohan! Great to see you here! <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="30px"> -->
+<!-- # Hi, I am Rohan! Great to see you here! <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="30px"> 
 
 **I am Rohan Chaudhary, currently pursuing my Bachelor's in Information Technology from [Panjab University](https://puchd.ac.in/). I am a data and tech enthusiast who is always open to collaborate on projects and innovative/disruptive ideas.**
 <br>
@@ -30,13 +31,13 @@
 <!-- [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=black)](https://leetcode.com/u/Chaudhary-Rohan/) -->
 <!--[![CodeChef](https://img.shields.io/badge/-CodeChef-5B4638?style=flat-square&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/rohan1789)-->
 <!-- [![GeeksForGeeks](https://img.shields.io/badge/-GeeksForGeeks-05CC47?style=flat-square&logo=GeeksForGeeks&logoColor=black)](https://auth.geeksforgeeks.org/user/ayushsenapati123/)
-[![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=flat-square&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/ayushsenapati123) -->
+[![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=flat-square&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/ayushsenapati123) 
 
 ## ⚡ Technologies
 
 ### Language
 
-<!-- ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java) -->
+<!-- ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java) --
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus)
@@ -44,7 +45,7 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![SQL](https://img.shields.io/badge/MySQL-005C84?style=flat-sqaure&logo=mysql&logoColor=white)
 
-<!-- ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript) -->
+<!-- ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript) --
 
 ### Libraries & Framework
 
@@ -58,7 +59,7 @@
 [![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)](https://nodejs.org/)![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white) -->
 
 
-<!-- ![Materialize CSS](https://img.shields.io/badge/-materialize--css-ff69b4?style=flat-sqaure&logo=materialize-css&logoColor=white) -->
+<!-- ![Materialize CSS](https://img.shields.io/badge/-materialize--css-ff69b4?style=flat-sqaure&logo=materialize-css&logoColor=white) --
 
 ### Tools:
 
@@ -76,7 +77,7 @@
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker) -->
 <!-- ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
-![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white) -->
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white) --
 
 ## 👀 Views
 ![Profile-Views-Counter](https://komarev.com/ghpvc/?username=Rohan-Shubh&label=PROFILE+VIEWS&style=flat-square&color=green)
@@ -85,7 +86,7 @@
 
 <table>
 <tr>
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=Ayush29Ayush&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=tokyonight"/> -->
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=Ayush29Ayush&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=tokyonight"/> --
 <td><img src="https://github-readme-stats.vercel.app/api?username=Rohan-Shubh&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" /> </td>
 <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohan-Shubh&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" /> </td>
 </tr>
@@ -93,7 +94,7 @@
 
 <p align="center">
 <!-- <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ayush29Ayush&theme=tokyonight" /> -->
-<!-- <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ayush29Ayush&theme=tokyonight&hide_border=true" /> -->
+<!-- <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ayush29Ayush&theme=tokyonight&hide_border=true" /> --
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Rohan-Shubh&theme=tokyonight&hide_border=true" />
 </p>
 
@@ -109,7 +110,7 @@
 
 <!-- - 👨‍💻 All of my projects are available at **[My Portfolio]()** -->
 
-<!-- - 📫 How to reach me -> **ayushsenapati123@gmail.com** -->
+<!-- - 📫 How to reach me -> **ayushsenapati123@gmail.com** --
 
 - 💻 I have worked on Machine Learning, Deep Learning, C++, Python, HTML/CSS, MySQL, Git etc.
   
@@ -120,6 +121,7 @@
 
 
 <br>
+--
 <br>
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>Let's connect and contribute to projects, let's make a difference. Feel free to reach out to me in any social media. </b> 😊 💜</em>
